@@ -1,111 +1,97 @@
-<div align="center">
-
-  <!-- FOTO DE PERFIL DO GITHUB -->
-  <img src="https://github.com/rebelosx.png" width="130" style="border-radius: 50%;" alt="Foto de Arthur Rebelo" />
-
-  <br /><br />
-
-  <!-- ANIMACAO DE DIGITACAO -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&width=500&lines=Arthur+Augusto+Rebelo+Machado;Backend+%26+Infrastructure+Engineer;FastAPI+%7C+Node.js+%7C+AI+Integrations" alt="Typing SVG" />
-  </a>
-
+<div align="left">
+  <h1>Arthur Augusto Rebelo Machado</h1>
+  <p><b>Backend & Infrastructure Engineer</b></p>
   <p>
-    Estudante de <b>Sistemas de Informação</b> no ENIAC e <b>Administração</b> na Univesp.<br />
-    Focado no desenvolvimento de APIs assíncronas, integrações com LLMs e arquitetura de software.
+    <a href="https://www.linkedin.com/in/arthurmachado150108/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:arthurremac@gmail.com">
+      <img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/rebelosx">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
-
-  <!-- LINKS DE CONTATO -->
-  <p>
-    <a href="https://www.linkedin.com/in/arthurmachado150108/"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
-    <a href="mailto:arthurremac@gmail.com"><b>E-mail</b></a> &nbsp;•&nbsp; 
-    <a href="https://github.com/rebelosx"><b>GitHub</b></a>
-  </p>
-
 </div>
 
----
+<br />
 
-## Sobre
+## Sobre Mim
 
-Atuo na construção de ecossistemas backend utilizando **Python (FastAPI)** e **Node.js (Express)**. Minha abordagem de engenharia prioriza:
+Estudante de **Sistemas de Informação** no ENIAC e **Administração** na Univesp. Atuo no desenvolvimento de ecossistemas backend e infraestrutura de APIs, com foco em concorrência assíncrona, resiliência de rede e segurança aplicada à integração com Inteligência Artificial.
 
-- **Desempenho e Assincronismo:** Tratamento eficiente de requisições concorrentes e consumo assíncrono de APIs externas.
-- **Resiliência:** Tratamento rigoroso de exceções, mitigação de *rate limits* e prevenção de gargalos de rede.
-- **Segurança Aplicada:** Sanitização de entradas via Pydantic e Regex, autenticação via JWT e gerenciamento de ambientes seguros.
-
----
-
-## Core Stack
-
-#### Linguagens & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-#### APIs & Integrações
-![HTTPX](https://img.shields.io/badge/HTTPX-000000?style=flat-square&logo=python&logoColor=white)
-![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
-![Google Gemini SDK](https://img.shields.io/badge/Google_Gemini-8E7CC3?style=flat-square&logo=googlegemini&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=fastapi&logoColor=white)
-
-#### Persistência & Segurança
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-#### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+* **Engenharia de Performance:** Construção de rotas assíncronas para alta vazão e mitigação de gargalos.
+* **Segurança & Validação:** Sanitização rigorosa de payloads via Regex/Pydantic e autenticação JWT.
+* **Integração com LLMs:** Engenharia de prompt para extração de dados estruturados (*Structured Outputs).
 
 ---
 
-## Projeto em Destaque
+## Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,cs,c,mysql,git,vscode,figma,postman,canva&perline=12" alt="Tech Stack Icons" />
+</p>
+
+* **Linguagens & Frameworks:** Python, FastAPI, Node.js, Express, C#, C, JavaScript, TypeScript.
+* **APIs & Assincronismo:** HTTPX (AsyncClient), GitHub REST API, Google Gemini SDK, REST.
+* **Persistência & Segurança:** MySQL, Sequelize ORM, Pydantic, JWT, Bcrypt, Multer.
+* **Design & Ferramentas:** Git, GitHub, VS Code, Insomnia, Figma, Canva, Lightroom
+
+---
+
+## Projetos em Destaque
 
 ### **CheckIA — Automated Security Code Audit**
-*Mentoria por Lobios (Gustavo Domingos Cardoso)*
 
-API voltada para auditoria automatizada de segurança e conformidade em softwares desenvolvidos por Inteligência Artificial (*Vibe Coding*).
+Plataforma backend voltada para a auditoria automatizada de segurança e conformidade em softwares desenvolvidos sob a cultura de *Vibe Coding* (código gerado por IA).
 
-<br />
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="650" alt="Terminal Code Audit" />
-</div>
-
-<br />
-
-- **Varredura Otimizada:** Varre a árvore de repositórios Git via REST API sem necessidade de *clones* locais.
-- **Filtro Inteligente (Blacklist):** Descarta arquivos pesados ou binários, reduzindo a latência de tráfego e o consumo de tokens na IA.
-- **Requisições Assíncronas:** Implementação em `httpx.AsyncClient` com controle de *headers* de autenticação e *timeouts*.
-- **Structured Outputs:** Engenharia de prompts via SDK do Google Gemini para forçar relatórios em JSON estrito.
-- **Validação de Payload:** Sanitização dinâmica de dados de entrada com Pydantic e Expressões Regulares (Regex).
+* **Varredura Recursiva:** Mapeamento da estrutura de diretórios via GitHub REST API sem necessidade de clones locais.
+* **Filtro Preventivo:** Descarte de pastas pesadas e arquivos binários na leitura, otimizando o consumo de tokens.
+* **Concorrência Assíncrona:** Arquitetura construída sobre `httpx.AsyncClient` com controle estrito de timeouts.
+* **Structured Outputs:** Engenharia de prompt via Gemini SDK para forçar diagnósticos de vulnerabilidade em JSON estrito.
+* **Sanitização:** Validação dinâmica de URLs em tempo real com Pydantic e Regex.
 
 ---
 
 ## Outros Projetos
 
-- **StageFlow:** Plataforma para automação de contratos de estágio. Desenvolvido em Node.js, Express, Sequelize, MySQL, JWT e Multer.
-- **PyFinance:** Sistema modular de gestão financeira em Python com controle de teto orçamentário por categoria e persistência em JSON.
-
----
-
-## Estatísticas
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rebelosx&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebelosx&layout=compact&theme=dark&hide_border=true&hide=html,css" />
-</div>
+<details>
+<summary><b> StageFlow (NEO Estágios)</b> — Clique para expandir detalhes</summary>
+<br />
+Plataforma para automação e gestão de contratos de estágio. Rotas protegidas, autenticação stateless via JWT, modelagem relacional de dados e módulo de upload seguro para PDFs.<br><br>
+<code>Node.js</code> • <code>Express</code> • <code>Sequelize</code> • <code>MySQL</code> • <code>JWT</code> • <code>Multer</code>
+</details>
 
 <br />
 
+<details>
+<summary><b> PyFinance</b> — Clique para expandir detalhes</summary>
+<br />
+Sistema de gestão financeira modularizado com persistência em arquivos JSON. Conta com regras de negócio para alertas de limite de orçamento e tratamento de exceções.<br><br>
+<code>Python</code> • <code>JSON Persist</code> • <code>Error Handling</code>
+</details>
+
+<br />
+
+<details>
+<summary><b> PapiloBench</b> — Clique para expandir detalhes</summary>
+<br />
+Protótipo de interface pericial em Dark Mode para análise avançada de impressões digitais com auxílio de IA.<br><br>
+<code>UI/UX Design</code> • <code>Figma</code> • <code>Canva</code> • <code>Lightroom</code>
+</details>
+
 ---
 
-<div align="center">
-  <sub>Guarulhos, São Paulo • Arthur Augusto Rebelo Machado</sub>
-</div>
+## Atividade no GitHub
+
+<p align="left">
+  <img height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rebelosx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rebelosx&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rebelosx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
